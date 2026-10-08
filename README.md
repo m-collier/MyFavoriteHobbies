@@ -1,2 +1,2 @@
-# First-Webpage
-My favorite crafts
+# MyFavoriteHobbies
+My favorite things to do
